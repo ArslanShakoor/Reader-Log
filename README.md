@@ -1,4 +1,4 @@
-#How to run
+# How to run
 
 ## Install VirtualBox
 VirtualBox is the software that actually runs the virtual machine. You can download it from virtualbox.org, here. Install the platform package for your operating system.
